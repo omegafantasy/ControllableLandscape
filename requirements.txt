@@ -1,0 +1,9 @@
+numpy
+openai
+matplotlib
+tqdm 
+argparse
+perlin_numpy 
+scipy 
+shapely
+opencv-python

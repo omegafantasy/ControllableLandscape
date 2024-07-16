@@ -1,0 +1,7 @@
+.vscode
+visuals
+outputs
+logs
+checkpoints
+__pycache__
+test*
