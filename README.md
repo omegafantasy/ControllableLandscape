@@ -2,7 +2,7 @@
 
 ![teaser](docs/teaser_new.png)
 
-[[Paper]][paper] [[Supplementary material]][supp] [[Video]][video]
+[Paper](https://openreview.net/pdf?id=RCD9rwbqt4 )  [SupplementaryMaterial ](https://github.com/omegafantasy/omegafantasy.github.io/blob/master/files/Controllable_Procedural_Generation_of_Landscapes__Supp.pdf ) [Video](https://github.com/omegafantasy/omegafantasy.github.io/blob/master/files/controllable_landscape_mm24.mp4 )
 
 This is the main repo for the ACM MM24 paper "Controllable Procedural Generation of Landscapes".
 
@@ -43,7 +43,3 @@ The direct outputs will be stored in `outputs/`. Move them to the Unity client r
 #### Others
 
 If you encounter some bugs, please create an issue.
-
-[paper]:https://openreview.net/pdf?id=RCD9rwbqt4
-[supp]: https://github.com/omegafantasy/omegafantasy.github.io/blob/master/files/Controllable_Procedural_Generation_of_Landscapes__Supp.pdf
-[video]: https://github.com/omegafantasy/omegafantasy.github.io/blob/master/files/controllable_landscape_mm24.mp4
